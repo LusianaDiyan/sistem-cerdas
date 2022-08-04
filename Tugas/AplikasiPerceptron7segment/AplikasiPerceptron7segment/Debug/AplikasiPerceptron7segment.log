@@ -1,0 +1,4 @@
+﻿  7segment.cpp
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\AplikasiPerceptron7segment\AplikasiPerceptron7segment\7segment.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\AplikasiPerceptron7segment\AplikasiPerceptron7segment\7segment.cpp(50,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AplikasiPerceptron7segment.vcxproj -> C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\AplikasiPerceptron7segment\Debug\AplikasiPerceptron7segment.exe

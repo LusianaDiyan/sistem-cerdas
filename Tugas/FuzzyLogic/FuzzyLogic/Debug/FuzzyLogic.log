@@ -1,0 +1,8 @@
+﻿  Produksi.cpp
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(30,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(57,9): warning C4778: 'printf' : unterminated format string '%02\n'
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(57,67): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(57,67): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(31,33): warning C4101: 'u3y': unreferenced local variable
+C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\FuzzyLogic\Produksi.cpp(31,18): warning C4101: 'u3x': unreferenced local variable
+  FuzzyLogic.vcxproj -> C:\Users\user\OneDrive\EDUCATION\PENS\SEMESTER 7\SISTEM CERDAS\Tugas\FuzzyLogic\Debug\FuzzyLogic.exe
